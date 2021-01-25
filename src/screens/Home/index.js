@@ -27,6 +27,7 @@ export default function Home() {
         <Suggestions />
         <Activities />
         <Tips />
+        <Banner />
       </Container>
     </Wrapper>
   );
