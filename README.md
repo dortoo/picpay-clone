@@ -4,7 +4,7 @@
 
 Um clone do aplicativo PicPay, feito utilizando React Native e Expo para praticar conceitos.
 
-#Instalação
+# Instalação
 
 Você precisará ter apenas o NodeJS instalado na sua máquina, e após isso, clonar este repositório:
 
@@ -38,7 +38,7 @@ Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu
 
 This is a clone for a local brazilian bank app called PicPay, built using React Native and Expo to practice concepts.
 
-#Installing
+# Installing
 
 You'll need to have NodeJS installed on your machine, and, after that, clone this repository:
 
