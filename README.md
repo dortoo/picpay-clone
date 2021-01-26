@@ -19,7 +19,7 @@ Ou caso prefira npm:
 ``$npm install``
 
 
-#Executando a aplicação
+# Executando a aplicação
 
 Execute o comando abaixo para inicializar o Expo:
 
@@ -51,5 +51,15 @@ Right after execute this command to install needed local files:
 Or in case you rather use npm:
 
 ``$ npm install``
+
+# Running the application
+
+Run the command below to initialize Expo:
+
+``$ yarn start``
+
+Or in case you rather use npm:
+
+``$npm start``
 
 Now just open the emulator through your computer, or in the Expo app with your mobile device (available through App Store and Google Play)
